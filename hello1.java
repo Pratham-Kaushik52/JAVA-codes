@@ -1,5 +1,5 @@
 import java.util.*;
-public class hello{
+public class hello1{
 
     void sum(int a,int b){
 
@@ -13,7 +13,7 @@ public class hello{
 
             Scanner sc=new Scanner(System.in);
             double d=sc.nextDouble();
-            hello h=new hello();
+            hello1 h=new hello1();
             h.sum(5,6);
             area_of_cir(d);
             //System.out.println("Hello, World!");
@@ -21,4 +21,7 @@ public class hello{
         }
             
 }
-      
+  
+                    
+        
+    
